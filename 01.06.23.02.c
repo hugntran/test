@@ -11,7 +11,6 @@ int isEvenNumber(int n, int m) {
 }
 
 int main(){
-	int i;
 	int n = 0, m = 0;
 	printf("Please, enter a number: \n+ n: ");
 	scanf("%d", &n);
